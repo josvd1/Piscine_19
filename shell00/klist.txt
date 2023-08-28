@@ -1,0 +1,5 @@
+Credentials cache: API:6F0DF704-DE5F-4C5E-AEAA-7EF1DA96A185
+        Principal: jvan-dro@S19.BE
+
+  Issued                Expires               Principal
+Aug  2 11:44:08 2021  Aug  2 21:43:51 2021  krbtgt/S19.BE@S19.BE
